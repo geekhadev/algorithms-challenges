@@ -10,13 +10,15 @@ It means doing at least one daily exercise on algorithms, practicing them in dif
 
 ## 📚 Platforms
 
+- [X] [codesignal](https://codesignal.com/)
+
 Every time I get an exercise from a platform I will add it to this list.
 
 ## 👨‍💻 Languages
 
 In this list of languages I will add the languages that I practice. Surely there will be many that I don't like so I won't try it ;-)
 
-- [ ] JavaScript
+- [X] JavaScript
 - [ ] Python
 - [ ] PHP
 - [ ] Rust
@@ -25,3 +27,11 @@ In this list of languages I will add the languages that I practice. Surely there
 ## ✅ Exercises list
 
 All the exercises will be in the 'src' folder, at the root of the repository, each exercise will have a folder, an explanation and hopefully time will give me its corresponding tests.
+
+| Exercise                            | Tests | Lenguage          | Platform                       |
+|-------------------------------------|-------|-------------------|--------------------------------|
+| 001-sum-two-numbers                 |   7   | JavaScript        | codesignal                     |
+
+## Others technologies
+
+- [X] [Vitest](https://vitest.dev) - JavaScript Testing Framework
