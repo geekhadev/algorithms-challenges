@@ -2,7 +2,7 @@
   "name": "003-polindrome",
   "version": "1.0.0",
   "description": "Given the string, check if it is a palindrome.",
-  "main": "centenary-year.js",
+  "main": "003-polindrome.js",
   "scripts": {
     "build-w": "tsc -w",
     "start": "nodemon build/003-polindrome.js",
