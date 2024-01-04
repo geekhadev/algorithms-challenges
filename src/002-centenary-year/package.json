@@ -1,0 +1,16 @@
+{
+  "name": "002-centenary-year",
+  "version": "1.0.0",
+  "description": "I know that this exercise can be very easy, but i want configure the tests, so i will do it. Also i want beggin to write in english ;-).",
+  "main": "centenary-year.js",
+  "scripts": {
+    "dev": "nodemon 002-centenary-year.js",
+    "test": "vitest --watch"
+  },
+  "keywords": [],
+  "author": "geekhadev | <khalisser@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^1.1.1"
+  }
+}

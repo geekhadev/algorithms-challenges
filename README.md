@@ -31,6 +31,7 @@ All the exercises will be in the 'src' folder, at the root of the repository, ea
 | Exercise                            | Tests | Lenguage          | Platform                       |
 |-------------------------------------|-------|-------------------|--------------------------------|
 | 001-sum-two-numbers                 |   7   | JavaScript        | codesignal                     |
+| 002-centenary-year                  |   4   | JavaScript        | codesignal                     |
 
 ## Others technologies
 
