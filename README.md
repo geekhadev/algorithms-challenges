@@ -19,6 +19,7 @@ Every time I get an exercise from a platform I will add it to this list.
 In this list of languages I will add the languages that I practice. Surely there will be many that I don't like so I won't try it ;-)
 
 - [X] JavaScript
+- [X] TypeScript
 - [ ] Python
 - [ ] PHP
 - [ ] Rust
@@ -32,7 +33,9 @@ All the exercises will be in the 'src' folder, at the root of the repository, ea
 |-------------------------------------|-------|-------------------|--------------------------------|
 | 001-sum-two-numbers                 |   7   | JavaScript        | codesignal                     |
 | 002-centenary-year                  |   4   | JavaScript        | codesignal                     |
+| 003-polindrome                      |   3   | TypeScript        | codesignal                     |
 
 ## Others technologies
 
 - [X] [Vitest](https://vitest.dev) - JavaScript Testing Framework
+- [X] [concurrently](https://www.npmjs.com/package/concurrently) - Run NPM commands concurrently
