@@ -11,6 +11,7 @@ It means doing at least one daily exercise on algorithms, practicing them in dif
 ## 📚 Platforms
 
 - [X] [codesignal](https://codesignal.com/)
+- [X] [adventjs-2023](https://adventjs.dev/es/challenges/2023)
 
 Every time I get an exercise from a platform I will add it to this list.
 
@@ -20,7 +21,7 @@ In this list of languages I will add the languages that I practice. Surely there
 
 - [X] JavaScript
 - [X] TypeScript
-- [ ] Python
+- [X] Python
 - [ ] PHP
 - [ ] Rust
 - [ ] SQL
@@ -34,8 +35,10 @@ All the exercises will be in the 'src' folder, at the root of the repository, ea
 | 001-sum-two-numbers                 |   7   | JavaScript        | codesignal                     |
 | 002-centenary-year                  |   4   | JavaScript        | codesignal                     |
 | 003-polindrome                      |   3   | TypeScript        | codesignal                     |
+| 004-find-first-repeated             |   3   | Python            | adventjs-2023                  |
 
 ## Others technologies
 
 - [X] [Vitest](https://vitest.dev) - JavaScript Testing Framework
 - [X] [concurrently](https://www.npmjs.com/package/concurrently) - Run NPM commands concurrently
+- [X] [unittest](https://docs.python.org/3/library/unittest.html) - Python Testing Framework
