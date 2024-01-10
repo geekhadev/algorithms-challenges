@@ -1,0 +1,21 @@
+{
+  "name": "005-max-adjacent-product",
+  "version": "1.0.0",
+  "description": "Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.",
+  "main": "005-max-adjacent-product.js",
+  "scripts": {
+    "build-w": "tsc -w",
+    "start": "nodemon build/005-max-adjacent-product.js",
+    "dev": "concurrently \"npm run build-w\" \"npm run start\"",
+    "test": "vitest --watch"
+  },
+  "keywords": [],
+  "author": "geekhadev | <khalisser@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "vitest": "^1.1.2"
+  }
+}

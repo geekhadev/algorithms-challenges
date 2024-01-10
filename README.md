@@ -36,6 +36,7 @@ All the exercises will be in the 'src' folder, at the root of the repository, ea
 | 002-centenary-year                  |   4   | JavaScript        | codesignal                     |
 | 003-polindrome                      |   3   | TypeScript        | codesignal                     |
 | 004-find-first-repeated             |   3   | Python            | adventjs-2023                  |
+| 005-max-adjacent-product            |   5   | TypeSceript       | codesignal                     |
 
 ## Others technologies
 
