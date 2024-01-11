@@ -22,7 +22,7 @@ In this list of languages I will add the languages that I practice. Surely there
 - [X] JavaScript
 - [X] TypeScript
 - [X] Python
-- [ ] PHP
+- [X] PHP
 - [ ] Rust
 - [ ] SQL
 
@@ -37,6 +37,7 @@ All the exercises will be in the 'src' folder, at the root of the repository, ea
 | 003-polindrome                      |   3   | TypeScript        | codesignal                     |
 | 004-find-first-repeated             |   3   | Python            | adventjs-2023                  |
 | 005-max-adjacent-product            |   5   | TypeSceript       | codesignal                     |
+| 006-area-polygon                    |   2   | PHP               | codesignal                     |
 
 ## Others technologies
 

@@ -563,3 +563,4 @@ $RECYCLE.BIN/
 
 # Remove all packahe-lock.json files
 package-lock.json
+vendor
